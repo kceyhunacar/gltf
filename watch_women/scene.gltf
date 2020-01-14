@@ -1347,13 +1347,13 @@
   ],
   "images": [
     {
-      "uri": "textures/wristbran_baseColor.png"
+      "uri": "wristbran_baseColor.png"
     },
     {
-      "uri": "textures/frontbrand_baseColor.png"
+      "uri": "frontbrand_baseColor.png"
     },
     {
-      "uri": "textures/backbrand_baseColor.png"
+      "uri": "backbrand_baseColor.png"
     }
   ],
   "materials": [
